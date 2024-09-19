@@ -1,0 +1,11 @@
+.skill-iteam__overlay {
+ position: absolute;
+ top: 0;
+ right: 0;
+ bottom: 0;
+ left: 0;
+ background-color: $color-primary;
+ opacity: 0.8;
+ z-index: 1;
+ transition: opacity 0.5s;
+}

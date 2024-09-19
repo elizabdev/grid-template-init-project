@@ -1,0 +1,12 @@
+.skill-iteam__link {
+ display: flex;
+ height: 100%;
+ padding: $gap;
+ justify-content: center;
+ align-items: center;
+
+ &:hover,
+ &:focus {
+  color: $color-highlight;
+ }
+}
